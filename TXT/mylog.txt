@@ -1,8 +1,6 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-
-# My Log
 ZCZC W00 60 L99 Other(Belajar C language, Vim Basics, Shell Scripting)
 ZCZC W00 10 L06 Reading OS Concept Book pages 3-8
 ZCZC W00 10 L03 Create new repository (os202) on GitHub
