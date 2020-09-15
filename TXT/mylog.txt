@@ -13,3 +13,11 @@ L06 Reading Refereces/Books/Documents
 L07 Demo related
 L08 Trying something
 L99 Other (...)
+
+
+# My Log
+ZCZC W00 60 L99 Other(Belajar C language, Vim Basics, Shell Scripting)
+ZCZC W00 10 L03 Create new repository (os202) on GitHub
+ZCZC W00 100 L02 ZOOM
+ZCZC W00 25 L04 Getting Started with GitHub Pages
+ZCZC W00 15 L00 General Log (Menulis mylog.txt)
