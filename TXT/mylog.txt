@@ -2,22 +2,10 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
-# LogCode + Description List
-L00 General Log
-L01 SCELE related
-L02 ZOOM related
-L03 GitHub related
-L04 GitHub Pages related
-L05 GSGS related
-L06 Reading Refereces/Books/Documents
-L07 Demo related
-L08 Trying something
-L99 Other (...)
-
-
 # My Log
 ZCZC W00 60 L99 Other(Belajar C language, Vim Basics, Shell Scripting)
+ZCZC W00 10 L06 Reading OS Concept Book pages 3-8
 ZCZC W00 10 L03 Create new repository (os202) on GitHub
-ZCZC W00 100 L02 ZOOM
+ZCZC W00 100 L02 ZOOM Class
 ZCZC W00 25 L04 Getting Started with GitHub Pages
-ZCZC W00 15 L00 General Log (Menulis mylog.txt)
+ZCZC W00 15 L00 General Log (Update mylog.txt)
