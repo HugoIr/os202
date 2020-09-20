@@ -1,11 +1,13 @@
 # Welcome to OS 202
 
+###----------------------------------------
+
 ## My Name is Hugo
 
-## This is my Log : [MYLOG](https://github.com/HugoIr/os202/blob/master/TXT/mylog.txt)
+# This is my Log : [MYLOG](https://github.com/HugoIr/os202/blob/master/TXT/mylog.txt)
 
 
-## Operating Systems Weekly Top Ten List :
+# Operating Systems Weekly Top Ten List :
 * [Week 00](W00/) 
 * [Week 01](W01/) 
 * [Week 02](W02/) 
