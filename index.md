@@ -4,7 +4,7 @@
 
 ## My Name is Hugo
 
-# This is my Log : [MYLOG](https://github.com/HugoIr/os202/blob/master/TXT/mylog.txt)
+# [MYLOG](https://github.com/HugoIr/os202/blob/master/TXT/mylog.txt)
 
 
 # Operating Systems Weekly Top Ten List :
