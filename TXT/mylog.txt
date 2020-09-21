@@ -9,3 +9,6 @@ ZCZC W00 25 L04 Getting Started with GitHub Pages
 ZCZC W00 15 L00 General Log (Update mylog.txt)
 ZCZC W00 60 L05 GSGS for top 10 List of Week 00
 ZCZC W00 60 L03 Updating top 10 List of Week 00
+ZCZC W00 60 L03 Updating top 10 List of Week 00
+ZCZC W00 30 L06 Reading book
+ZCZC W00 30 L05 GSGS for top 10 List of Week 00
