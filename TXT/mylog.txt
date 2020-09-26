@@ -12,3 +12,9 @@ ZCZC W00 60 L03 Updating top 10 List of Week 00
 ZCZC W00 60 L03 Updating top 10 List of Week 00
 ZCZC W00 30 L06 Reading book
 ZCZC W00 30 L05 GSGS for top 10 List of Week 00
+ZCZC W01 100 L02 ZOOM Class
+ZCZC W01 45 L11 Setup Debian on Virtual Machine
+ZCZC W01 30 L11 Successfully create tunel to badak.cs.ui.ac.id via kawung.cs.ui.ac.id
+ZCZC W01 30 L11 Create tunel to badak.cs.ui.ac.id via kawung.cs.ui.ac.id
+ZCZC W01 15 L11 Copy folders from (rsync) badak:///extra/Doc/, badak:///extra/Slides/
+ZCZC W01 60 L05 GSGS to answer Scele-Forum
