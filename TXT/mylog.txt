@@ -13,11 +13,15 @@ ZCZC W00 60 L03 Updating top 10 List of Week 00
 ZCZC W00 30 L06 Reading book
 ZCZC W00 30 L05 GSGS for top 10 List of Week 00
 ZCZC W01 100 L02 ZOOM Class
-ZCZC W01 45 L11 Setup Debian on Virtual Machine
-ZCZC W01 30 L11 Successfully create tunel to badak.cs.ui.ac.id via kawung.cs.ui.ac.id
-ZCZC W01 30 L11 Create tunel to badak.cs.ui.ac.id via kawung.cs.ui.ac.id
-ZCZC W01 15 L11 Copy folders from (rsync) badak:///extra/Doc/, badak:///extra/Slides/
+ZCZC W01 45 L11 Assignment #1 : Setup Debian on Virtual Machine
+ZCZC W01 30 L12 Assignment #2 : Log into the guest and learn some basics Vi
+ZCZC W01 10 L13 Assignment #3 : Create a new user account (hugo)
+ZCZC W01 30 L14 Assignment #4 : Successfully create tunel to badak.cs.ui.ac.id via kawung.cs.ui.ac.id
+ZCZC W01 15 L15 Assignment #5 : Copy folders from (rsync) badak:///extra/Doc/, badak:///extra/Slides/
 ZCZC W01 60 L05 GSGS to answer Scele-Forum
-ZCZC W01 60 L12 Assignment #2
+ZCZC W01 10 L16 Assignment #6 : Git pull my os202 Github repository
+ZCZC W01 60 L10 Assignment (General) : Learn basics Regex
 ZCZC W01 30 L07 Demo related (gawk, sed)
-ZCZC W01 90 L13 Assignment #3 : Update W00.md and W01.md
+ZCZC W01 120 L18 Assignment #8 : Update W00.md and W01.md
+ZCZC W01 90 L18 Assignment #8 : Update W00.md 
+ZCZC W01 25 L17 Assignment #7 : Update mylog.txt
