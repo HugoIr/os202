@@ -24,4 +24,4 @@ ZCZC W01 60 L10 Assignment (General) : Learn basics Regex
 ZCZC W01 30 L07 Demo related (gawk, sed)
 ZCZC W01 120 L18 Assignment #8 : Update W00.md and W01.md
 ZCZC W01 90 L18 Assignment #8 : Update W00.md 
-ZCZC W01 25 L17 Assignment #7 : Update mylog.txt
+ZCZC W01 35 L17 Assignment #7 : Update mylog.txt
