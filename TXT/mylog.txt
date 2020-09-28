@@ -19,3 +19,5 @@ ZCZC W01 30 L11 Create tunel to badak.cs.ui.ac.id via kawung.cs.ui.ac.id
 ZCZC W01 15 L11 Copy folders from (rsync) badak:///extra/Doc/, badak:///extra/Slides/
 ZCZC W01 60 L05 GSGS to answer Scele-Forum
 ZCZC W01 60 L12 Assignment #2
+ZCZC W01 30 L07 Demo related (gawk, sed)
+ZCZC W01 90 L13 Assignment #3 : Update W00.md and W01.md
