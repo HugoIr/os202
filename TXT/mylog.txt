@@ -25,6 +25,10 @@ ZCZC W01 30 L07 Demo related (gawk, sed)
 ZCZC W01 120 L18 Assignment #8 : Update W00.md and W01.md
 ZCZC W01 90 L18 Assignment #8 : Update W00.md 
 ZCZC W01 35 L17 Assignment #7 : Update mylog.txt
+ZCZC W02 100 L02 ZOOM Class
 ZCZC W02 10 L12 Assignment #2 : Generate a GnuPG Key Pair
 ZCZC W02 5 L13 Assignment #3 : Import public Key from https://osp4diss.vlsm.org/ETC/ospubkey.txt
 ZCZC W02 5 L14 Assignment #4 : Export my public key
+ZCZC W02 30 L15 Assignment #5 : Visit and pick 3 out of my 10 closest neighbors
+ZCZC W02 10 L19 Assignment #9 : Make SHA256SUM and sign it
+ZCZC W02 10 L18 Assignment #8 : Update mylog.txt
