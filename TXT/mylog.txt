@@ -1,6 +1,8 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+
+# Week 0
 ZCZC W00 60 L99 Other(Belajar C language, Vim Basics, Shell Scripting)
 ZCZC W00 10 L06 Reading OS Concept Book pages 3-8
 ZCZC W00 10 L03 Create new repository (os202) on GitHub
@@ -12,6 +14,8 @@ ZCZC W00 60 L03 Updating top 10 List of Week 00
 ZCZC W00 60 L03 Updating top 10 List of Week 00
 ZCZC W00 30 L06 Reading book
 ZCZC W00 30 L05 GSGS for top 10 List of Week 00
+
+# Week 1
 ZCZC W01 100 L02 ZOOM Class
 ZCZC W01 45 L11 Assignment #1 : Setup Debian on Virtual Machine
 ZCZC W01 30 L12 Assignment #2 : Log into the guest and learn some basics Vi
@@ -25,6 +29,8 @@ ZCZC W01 30 L07 Demo related (gawk, sed)
 ZCZC W01 120 L18 Assignment #8 : Update W00.md and W01.md
 ZCZC W01 90 L18 Assignment #8 : Update W00.md 
 ZCZC W01 35 L17 Assignment #7 : Update mylog.txt
+
+# Week 2
 ZCZC W02 100 L02 ZOOM Class
 ZCZC W02 10 L12 Assignment #2 : Generate a GnuPG Key Pair
 ZCZC W02 5 L13 Assignment #3 : Import public Key from https://osp4diss.vlsm.org/ETC/ospubkey.txt
