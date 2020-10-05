@@ -1,8 +1,8 @@
 # This script is used for git add-commit-push (origin master)
-git add .
 
+git add .
 echo 'Enter the commit message:'
 read message
 git commit -m "$message"
 git push origin master
-read
+
