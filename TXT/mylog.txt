@@ -46,7 +46,8 @@ ZCZC W02 20 L07 Demo related (write git bash script)
 # Week 3
 ZCZC W03 100 L02 ZOOM Class
 ZCZC W03 10 L13 Assignment #3 : Visit Virtual Guest and update ".bash_aliases"
-ZCZC W03 5 L13 Assignment #6 : Run "chktoken OS202" and write the result into myW03token.txt
-ZCZC W03 20 L13 Assignment #7 : Download TLPI Code and write the ”disk usage” (du) into myW03disk.txt 
-ZCZC W03 10 L13 Assignment #8 : Update mylog.txt
-ZCZC W03 5 L13 Assignment #10 : Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc
+ZCZC W03 5 L16 Assignment #6 : Run "chktoken OS202" and write the result into myW03token.txt
+ZCZC W03 20 L17 Assignment #7 : Download TLPI Code and write the ”disk usage” (du) into myW03disk.txt 
+ZCZC W03 10 L18 Assignment #8 : Update mylog.txt
+ZCZC W03 5 L20 Assignment #10 : Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc
+ZCZC W03 45 L12 Assignment #2 : Demos
