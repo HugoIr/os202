@@ -42,3 +42,11 @@ ZCZC W02 240 L16 Assignment #6 : Update my top 10 list of week 2
 ZCZC W02 45 L11 Assignment #1 : Read part of OSC10 Chapter 16 & 17 
 ZCZC W02 10 L17 Assignment #7 : Write a simple and useful bash script
 ZCZC W02 20 L07 Demo related (write git bash script)
+
+# Week 3
+ZCZC W03 100 L02 ZOOM Class
+ZCZC W03 10 L13 Assignment #3 : Visit Virtual Guest and update ".bash_aliases"
+ZCZC W03 5 L13 Assignment #6 : Run "chktoken OS202" and write the result into myW03token.txt
+ZCZC W03 20 L13 Assignment #7 : Download TLPI Code and write the ”disk usage” (du) into myW03disk.txt 
+ZCZC W03 10 L13 Assignment #8 : Update mylog.txt
+ZCZC W03 5 L13 Assignment #10 : Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc
