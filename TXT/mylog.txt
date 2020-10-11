@@ -51,3 +51,9 @@ ZCZC W03 20 L17 Assignment #7 : Download TLPI Code and write the ‚Äùdisk usage‚Ä
 ZCZC W03 10 L18 Assignment #8 : Update mylog.txt
 ZCZC W03 5 L20 Assignment #10 : Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc
 ZCZC W03 45 L12 Assignment #2 : Demos
+ZCZC W03 60 L12 Assignment #1 : Read OSC10
+ZCZC W03 30 L01 SCELE forum : decrypt file 
+ZCZC W03 45 L01 SCELE forum : encrypt file 
+ZCZC W03 150 L12 Assignment #5 : Create your TOP 10 List of Week 03
+ZCZC W03 60 L12 Assignment #2 : Demos
+ZCZC W03 45 L12 Assignment #2 : Demos
