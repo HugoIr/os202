@@ -1,4 +1,5 @@
 #!/bin/bash
+# HugoIr
 # Sun Oct 11 2020
 
 FILES="my*.txt my*.sh"
