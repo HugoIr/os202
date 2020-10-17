@@ -57,3 +57,11 @@ ZCZC W03 45 L01 SCELE forum : encrypt file on forum
 ZCZC W03 150 L15 Assignment #5 : Create your TOP 10 List of Week 03
 ZCZC W03 45 L14 Assignment #4 : Visit and pick 3 out of my 10 closest neighbors
 ZCZC W03 15 L19 Assignment #9 : Update myscript.sh
+
+# Week 4
+ZCZC W04 100 L02 ZOOM Class
+ZCZC W04 3 L12 Assignment #2 : Update my Virtual Guest
+ZCZC W04 5 L15 Assignment #5 : Run ”chktoken NEWHOPE” and write the result intomyW04token.txt
+ZCZC W04 20 L16 Assignment #6 : Download W04.tar.bz2 and write the result intp myW04.txt
+ZCZC W04 10 L17 Assignment #7 : Update mylog.txt
+ZCZC W04 10 L18 Assignment #8 : Update myscript.sh
