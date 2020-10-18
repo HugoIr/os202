@@ -60,6 +60,8 @@ ZCZC W03 15 L19 Assignment #9 : Update myscript.sh
 
 # Week 4
 ZCZC W04 100 L02 ZOOM Class
+ZCZC W04 35 L06 Reading Slides and Books
+ZCZC W04 25 L07 Demo related
 ZCZC W04 3 L12 Assignment #2 : Update my Virtual Guest
 ZCZC W04 5 L15 Assignment #5 : Run ”chktoken NEWHOPE” and write the result intomyW04token.txt
 ZCZC W04 20 L16 Assignment #6 : Download W04.tar.bz2 and write the result intp myW04.txt
@@ -69,3 +71,4 @@ ZCZC W04 180 L14 Assignment #4 : Create top ten list for week 4
 ZCZC W04 45 L13 Assignment #3 : Visit and pick 3 out of my 10 closest neighbors plus 3 of my far neighbors
 ZCZC W04 60 L11 Assignment #1 : Read OSC10 and try Demos on Week 4
 ZCZC W04 5 L19 Assignment #19 : Make SHA256SUM and sign it as SHA256SUM.asc
+ZZCC W04 15 L10 Assignment (General)
