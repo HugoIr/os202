@@ -68,3 +68,4 @@ ZCZC W04 10 L18 Assignment #8 : Update myscript.sh
 ZCZC W04 180 L14 Assignment #4 : Create top ten list for week 4
 ZCZC W04 45 L13 Assignment #3 : Visit and pick 3 out of my 10 closest neighbors plus 3 of my far neighbors
 ZCZC W04 60 L11 Assignment #1 : Read OSC10 and try Demos on Week 4
+ZCZC W04 5 L19 Assignment #19 : Make SHA256SUM and sign it as SHA256SUM.asc
