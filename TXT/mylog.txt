@@ -65,4 +65,6 @@ ZCZC W04 5 L15 Assignment #5 : Run ”chktoken NEWHOPE” and write the result i
 ZCZC W04 20 L16 Assignment #6 : Download W04.tar.bz2 and write the result intp myW04.txt
 ZCZC W04 10 L17 Assignment #7 : Update mylog.txt
 ZCZC W04 10 L18 Assignment #8 : Update myscript.sh
-ZCZC W04 90 L14 Assignment #4 : Create top ten list for week 4
+ZCZC W04 180 L14 Assignment #4 : Create top ten list for week 4
+ZCZC W04 45 L13 Assignment #3 : Visit and pick 3 out of my 10 closest neighbors plus 3 of my far neighbors
+ZCZC W04 60 L11 Assignment #1 : Read OSC10 and try Demos on Week 4
