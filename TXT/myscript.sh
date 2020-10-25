@@ -1,6 +1,6 @@
 #!/bin/bash
 # HugoIr
-# Sat Oct 17 2020
+# Sun Oct 25 2020
 
 FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
