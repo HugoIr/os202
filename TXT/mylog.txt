@@ -75,13 +75,20 @@ ZZCC W04 15 L10 Assignment (General)
 
 # Week 5
 ZCZC W05 100 L02 ZOOM Class
-ZCZC W05 35 L07 Demo related
+ZCZC W05 40 L07 Demo related
 ZCZC W05 40 L06 Reading Slides and Books
+ZZCC W05 15 L10 Assignment (General)
 ZCZC W05 5 L12 Assignment #2 : Update my Virtual Guest
 ZCZC W05 5 L15 Assignment #5 : Run ”chktoken 12345" and write the result into myW05token.txt
 ZCZC W05 20 L16 Assignment #6 : Download W05.tar.bz2 and write the result into myW05.txt
-ZCZC W05 2 L18 Assignment #8 : Update myscript.sh
-ZCZC W05 20 L18 Assignment #7 : Update mylog.txt
+ZCZC W05 3 L18 Assignment #8 : Update myscript.sh
+ZCZC W05 30 L17 Assignment #7 : Update mylog.txt
+ZCZC W05 200 L14 Assignment #4 : Create top ten list for week 5
+ZCZC W05 30 L13 Assignment #3 : Visit and pick 3 out of my 10 closest neighbors plus 3 of my far neighbors
+ZCZC W05 30 L11 Assignment #1 : Read OSC10
+ZCZC W05 8 L19 Assignment #9 : Make SHA256SUM and sign it as SHA256SUM.asc
+
+
 
 
 
