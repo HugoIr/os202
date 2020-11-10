@@ -88,7 +88,10 @@ ZCZC W05 30 L13 Assignment #3 : Visit and pick 3 out of my 10 closest neighbors 
 ZCZC W05 30 L11 Assignment #1 : Read OSC10
 ZCZC W05 8 L19 Assignment #9 : Make SHA256SUM and sign it as SHA256SUM.asc
 
-
+# WEEK 6
+ZCZC W06 100 L02 ZOOM Class
+ZCZC W06 5 L12 Assignment #2 : Update my Virtual Guest
+ZCZC W06 5 L15 Assignment #5 : Run ”chktoken JOLANTRU" and write the result into myW06token.txt
 
 
 
