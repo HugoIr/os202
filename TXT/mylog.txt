@@ -92,7 +92,8 @@ ZCZC W05 8 L19 Assignment #9 : Make SHA256SUM and sign it as SHA256SUM.asc
 ZCZC W06 100 L02 ZOOM Class
 ZCZC W06 5 L12 Assignment #2 : Update my Virtual Guest
 ZCZC W06 5 L15 Assignment #5 : Run ”chktoken JOLANTRU" and write the result into myW06token.txt
-
-
+ZCZC W06 120 L16 Assignment #6 : Download W06.tar.bz2 and write the result into myW06.txt
+ZCZC W06 5 L18 Assignment #8 : Update bash script
+ZCZC W06 210 L14 Assignment #4 : Create top ten list for week 6
 
 
