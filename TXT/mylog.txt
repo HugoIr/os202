@@ -96,10 +96,11 @@ ZCZC W06 120 L16 Assignment #6 : Download W06.tar.bz2 and write the result into 
 ZCZC W06 5 L18 Assignment #8 : Update bash script
 ZCZC W06 210 L14 Assignment #4 : Create top ten list for week 6
 ZZCC W06 20 L10 Assignment (General)
-ZCZC W05 40 L07 Demo related
+ZCZC W06 45 L07 Demo related
 ZCZC W06 30 L11 Assignment #1 : Read OSC10
 ZCZC W06 5 L20 Assignment #10 : Do ”make clean” your W06/ folder and ”tar” it back into
 myW06.tar.bz2
 ZCZC W06 5 L21 Assignment #11 : GnuPG encrypt (armor) to myW06.tar.bz2.txt
 ZCZC W06 10 L19 Assignment #9 : Make SHA256SUM and sign it as SHA256SUM.asc
 ZCZC W06 15 L17 Assignment #7 : Update mylog.txt
+ZCZC W06 30 L13 Assignment #3 : Visit and pick 3 out of my 10 closest neighbors plus 3 of my far neighbors
