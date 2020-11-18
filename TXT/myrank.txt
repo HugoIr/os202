@@ -30,3 +30,9 @@ ZCZC W05 gpersable
 ZCZC W05 althof3 
 ZCZC W05 fghaffar26
 ZCZC W05 johanessteven19
+
+ZCZC W06 gpersable
+ZCZC W06 althof3 
+ZCZC W06 johanessteven19
+ZCZC W06 idrisyoga23
+ZCZC W06 jeremiahtennes

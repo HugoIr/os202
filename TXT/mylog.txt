@@ -104,3 +104,14 @@ ZCZC W06 5 L21 Assignment #11 : GnuPG encrypt (armor) to myW06.tar.bz2.txt
 ZCZC W06 10 L19 Assignment #9 : Make SHA256SUM and sign it as SHA256SUM.asc
 ZCZC W06 15 L17 Assignment #7 : Update mylog.txt
 ZCZC W06 30 L13 Assignment #3 : Visit and pick 3 out of my 10 closest neighbors plus 3 of my far neighbors
+
+# WEEK 7
+ZCZC W07 100 L02 ZOOM Class
+ZCZC W07 5 L12 Assignment #2 : Update my Virtual Guest
+ZCZC W07 150 L14 Assignment #4 : Create top ten list for week 6
+ZCZC W07 3 L18 Assignment #8 : Update bash script
+ZZCC W07 15 L10 Assignment (General)
+ZCZC W07 30 L07 Demo related
+ZCZC W07 20 L11 Assignment #1 : Read OSC10
+ZCZC W07 25 L13 Assignment #3 : Visit and pick 3 out of my 10 closest neighbors plus 3 of my far neighbors
+ZCZC W07 10 L17 Assignment #7 : Update mylog.txt
