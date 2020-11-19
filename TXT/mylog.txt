@@ -107,11 +107,17 @@ ZCZC W06 30 L13 Assignment #3 : Visit and pick 3 out of my 10 closest neighbors 
 
 # WEEK 7
 ZCZC W07 100 L02 ZOOM Class
-ZCZC W07 5 L12 Assignment #2 : Update my Virtual Guest
-ZCZC W07 150 L14 Assignment #4 : Create top ten list for week 6
-ZCZC W07 3 L18 Assignment #8 : Update bash script
-ZZCC W07 15 L10 Assignment (General)
+ZCZC W07 5 L11 Assignment #1 : Week 07 Token: TFAWAKENS
+ZCZC W07 5 L13 Assignment #3 : Update my Virtual Guest
+ZCZC W07 5 L16 Assignment #6 : Run ”chktoken TFAWAKENS” and write the result into myW07token.txt
+ZCZC W07 150 L15 Assignment #5 : Create top ten list for week 7
+ZCZC W07 3 L19 Assignment #9 : Update bash script
+ZZCC W07 25 L10 Assignment (General)
 ZCZC W07 30 L07 Demo related
-ZCZC W07 20 L11 Assignment #1 : Read OSC10
-ZCZC W07 25 L13 Assignment #3 : Visit and pick 3 out of my 10 closest neighbors plus 3 of my far neighbors
-ZCZC W07 10 L17 Assignment #7 : Update mylog.txt
+ZCZC W07 30 L12 Assignment #2 : Read OSC10
+ZCZC W07 25 L14 Assignment #4 : Visit and pick 3 out of my 10 closest neighbors plus 3 of my far neighbors
+ZCZC W07 15 L18 Assignment #8 : Update mylog.txt
+ZCZC W07 10 L17 Assignment #7 : Download https://os.vlsm.org/WEEK/W07.tar.bz2.asc
+ZCZC W07 80 L21 Assignment #11 : Solved desired output and do ”make clean” your W07/folder and ”tar” it back into myW07.tar.bz2
+ZCZC W07 10 L22 Assignment #12 : GnuPG encrypt (armor) tomyW07.tar.bz2.txt
+ZCZC W07 10 L20 Assignment #10 : Make SHA256SUM and sign it as SHA256SUM.asc
