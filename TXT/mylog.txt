@@ -128,12 +128,12 @@ ZCZC W08 5 L11 Assignment #1 : Week 08 Token: LINUXFROMSCRATCH
 ZCZC W08 5 L13 Assignment #3 : Update my Virtual Guest
 ZZCC W08 25 L10 Assignment (General)
 ZCZC W08 30 L07 Demo related
-ZCZC W08 30 L12 Assignment #2 : Read OSC10
+ZCZC W08 30 L12 Assignment #2 : Read OSC10 Chapter 05
 ZCZC W08 5 L16 Assignment #6 : Run ”chktoken LINUXFROMSCRATCH and write the result into myW08token.txt
 ZCZC W08 140 L15 Assignment #5 : Create top ten list for week 8
 ZCZC W08 3 L18 Assignment #8 : Update bash script
 ZCZC W08 30 L14 Assignment #4 : Visit and pick 3 out of my 10 closest neighbors plus some of my far neighbors
 ZCZC W08 15 L17 Assignment #7 : Update mylog.txt
-ZCZC W08 30 L20 Assignment #10 : Place the assignment result into W08/ folder and ”tar” it into myW08.tar.bz2
+ZCZC W08 120 L20 Assignment #10 : Place the assignment result into W08/ folder and ”tar” it into myW08.tar.bz2
 ZCZC W08 5 L21 Assignment #11 : GnuPG encrypt (armor) to myW08.tar.bz2.txt
 ZCZC W08 5 L19 Assignment #9 : Make SHA256SUM and sign it (detached, armor) as SHA256SUM.asc.
